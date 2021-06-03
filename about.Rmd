@@ -4,6 +4,13 @@ description: |
   Some additional details about the website
 ---
 
+Kevin is a student at the Univerisity of Toronto.<br>
+He hopes to get into the Data Science program but perhaps his grades are too low.<br>
+
+His most notable achievement in life is probably ~~getting an 80 in ENV200~~ his art.
+
+You can find that [here](https://www.deviantart.com/latoarts)
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```

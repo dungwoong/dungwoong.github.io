@@ -12,15 +12,14 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# HELLO
-ahsdfn
+# House prices linear regression project
+Predicting house prices in Ames, Iowa.<br>
+This was a challenge on Kaggle that I did. I mostly followed the tutorials there.
 
-# HELLLO2
-asdfjl
+[github repository here](https://github.com/dungwoong/houseprices-linear-regression)
 
-Distill is a publication format for scientific and technical writing, native to the web. 
-
-Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
+# Project2
+Yeah that doesn't exist yet
 
 
 

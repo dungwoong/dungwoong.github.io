@@ -4,11 +4,9 @@ image: "img/nodik.png"
 site: distill::distill_website
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://www.linkedin.com/in/kevin-wang-33000a202/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/dungwoong"
   - label: Email
     url: "mailto:imkevin.wang@mail.utoronto.com"
 output:
@@ -23,16 +21,10 @@ I am Kevin Wang.
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**University of Toronto** | Toronto, ON
 
-Ph.D. in Computer Science | September 2009 - May 2014
-
-**The University of California, Berkeley** | Berkeley, CA
-
-B.S. in Computer Science | September 2005 - May 2009
+Don't know my program but my GPA is decent | September 2020 - May 2024
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
-
-**Netflix** | Research Scientist | June 2014 - December 2017
+**STEM Fellowship** | Google Analytics Team | September 2019 - October 2020
