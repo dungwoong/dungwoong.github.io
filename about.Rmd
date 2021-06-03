@@ -1,7 +1,7 @@
 ---
-title: "About this site"
+title: "About me"
 description: |
-  Some additional details about the website
+  Kevin is a cool guy
 ---
 
 Kevin is a student at the Univerisity of Toronto.<br>

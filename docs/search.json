@@ -2,26 +2,26 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "title": "About me",
+      "description": "Kevin is a cool guy",
       "author": [],
       "contents": "\r\nKevin is a student at the Univerisity of Toronto. He hopes to get into the Data Science program but perhaps his grades are too low.\r\nHis most notable achievement in life is probably getting an 80 in ENV200 his art.\r\nYou can find that here\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-03T10:20:52-06:00"
+      "last_modified": "2021-06-03T10:30:21-06:00"
     },
     {
       "path": "index.html",
       "title": "Kevin Wang",
       "author": [],
       "contents": "\r\n\r\n          \r\n          \r\n          Kevin Wang\r\n          \r\n          \r\n          Home\r\n          About\r\n          Projects\r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Kevin Wang\r\n            \r\n            \r\n              \r\n                \r\n                    \r\n                      \r\n                        LinkedIn\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        GitHub\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        Email\r\n                      \r\n                    \r\n                  \r\n                                  \r\n            \r\n          \r\n        \r\n        \r\n        \r\n          \r\n            \r\n            Bio\r\n            This site is still under construction. My name is Kevin Wang. I am Kevin Wang.\r\n            \r\n            \r\n            Education\r\n            University of Toronto | Toronto, ON\r\n            Don’t know my program but my GPA is decent | September 2020 - May 2024\r\n            \r\n            \r\n            Experience\r\n            STEM Fellowship | Google Analytics Team | September 2019 - October 2020\r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Kevin Wang\r\n            \r\n            \r\n              \r\n                \r\n                                    \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                                  \r\n              \r\n            \r\n            \r\n              \r\n              Bio\r\n              This site is still under construction. My name is Kevin Wang. I am Kevin Wang.\r\n              \r\n              \r\n              Education\r\n              University of Toronto | Toronto, ON\r\n              Don’t know my program but my GPA is decent | September 2020 - May 2024\r\n              \r\n              \r\n              Experience\r\n              STEM Fellowship | Google Analytics Team | September 2019 - October 2020\r\n              \r\n            \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
-      "last_modified": "2021-06-03T10:20:52-06:00"
+      "last_modified": "2021-06-03T10:30:31-06:00"
     },
     {
       "path": "projects.html",
-      "title": "Untitled",
+      "title": "Projects",
       "description": "Selected projects in R and python.\n",
       "author": [],
       "contents": "\r\n\r\nContents\r\nHouse prices linear regression project\r\nProject2\r\n\r\nHouse prices linear regression project\r\nPredicting house prices in Ames, Iowa. This was a challenge on Kaggle that I did. I mostly followed the tutorials there.\r\ngithub repository here\r\nProject2\r\nYeah that doesn’t exist yet\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-03T10:20:53-06:00"
+      "last_modified": "2021-06-03T10:30:43-06:00"
     }
   ],
   "collections": []
