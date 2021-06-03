@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-03T09:30:39-06:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Kevin Wang",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          Kevin Wang\r\n          \r\n          \r\n          Home\r\n          About\r\n          Projects\r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Kevin Wang\r\n            \r\n            \r\n              \r\n                \r\n                    \r\n                      \r\n                        LinkedIn\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        Twitter\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        GitHub\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        Email\r\n                      \r\n                    \r\n                  \r\n                                  \r\n            \r\n          \r\n        \r\n        \r\n        \r\n          \r\n            \r\n            Bio\r\n            This site is still under construction. My name is Kevin Wang. I am Kevin Wang.\r\n            \r\n            \r\n            Education\r\n            Massachusetts Institute of Technology | Cambridge, MA\r\n            Ph.D. in Computer Science | September 2009 - May 2014\r\n            The University of California, Berkeley | Berkeley, CA\r\n            B.S. in Computer Science | September 2005 - May 2009\r\n            \r\n            \r\n            Experience\r\n            Google Brain | Principal Investigator | January 2018 - Present\r\n            Netflix | Research Scientist | June 2014 - December 2017\r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Kevin Wang\r\n            \r\n            \r\n              \r\n                \r\n                                    \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      Twitter\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                                  \r\n              \r\n            \r\n            \r\n              \r\n              Bio\r\n              This site is still under construction. My name is Kevin Wang. I am Kevin Wang.\r\n              \r\n              \r\n              Education\r\n              Massachusetts Institute of Technology | Cambridge, MA\r\n              Ph.D. in Computer Science | September 2009 - May 2014\r\n              The University of California, Berkeley | Berkeley, CA\r\n              B.S. in Computer Science | September 2005 - May 2009\r\n              \r\n              \r\n              Experience\r\n              Google Brain | Principal Investigator | January 2018 - Present\r\n              Netflix | Research Scientist | June 2014 - December 2017\r\n              \r\n            \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2021-06-03T09:30:39-06:00"
+    },
+    {
+      "path": "projects.html",
+      "title": "Untitled",
+      "description": "Selected projects in R and python.\n",
+      "author": [],
+      "contents": "\r\n\r\nContents\r\nHELLO\r\nHELLLO2\r\n\r\nHELLO\r\nahsdfn\r\nHELLLO2\r\nasdfjl\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-03T09:30:40-06:00"
+    }
+  ],
+  "collections": []
+}

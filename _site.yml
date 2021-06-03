@@ -1,0 +1,18 @@
+name: "task2"
+title: "Kevin Wang"
+description: |
+  stats man
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Projects"
+      href: projects.html
+    - icon: fa fa-github
+      href: https://github.com/dungwoong
+    - icon: fa fa-paper-plane
+      href: mailto:imkevin.wang@mail.utoronto.ca
+output: distill::distill_article
