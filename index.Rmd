@@ -1,6 +1,6 @@
 ---
 title: "Kevin Wang"
-image: "img/nodik.png"
+image: "img/gongis.JPG"
 site: distill::distill_website
 links:
   - label: LinkedIn
@@ -17,10 +17,11 @@ output:
  
 ## Bio
 
-This site is still under construction.<br>
+This site is still under construction.
+
 I'm Kevin Wang.
 I will put a picture of myself here when I get a haircut.<br>
-Here's some art for now <br>
+Here's some art for now. <br>
 I draw and I code.
 
 ## Education
