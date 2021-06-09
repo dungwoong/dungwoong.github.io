@@ -19,6 +19,8 @@ output:
 
 This site is still under construction.<br>
 I'm Kevin Wang.
+I will put a picture of myself here when I get a haircut.<br>
+Here's some art for now <br>
 I draw and I code.
 
 ## Education
