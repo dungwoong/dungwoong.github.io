@@ -9,6 +9,8 @@ links:
     url: "https://github.com/dungwoong"
   - label: Email
     url: "mailto:imkevin.wang@mail.utoronto.com"
+  - label: Art??
+    url: "https://www.deviantart.com/latoarts"
 output:
   postcards::trestles
 ---
@@ -16,14 +18,14 @@ output:
 ## Bio
 
 This site is still under construction.<br>
-My name is Kevin Wang.
-I am Kevin Wang.
+I'm Kevin Wang.
+I draw and I code.
 
 ## Education
 
 **University of Toronto** | Toronto, ON
 
-Don't know my program but my GPA is decent | September 2020 - May 2024
+Data Science Specialist | September 2020 - May 2024
 
 ## Experience
 

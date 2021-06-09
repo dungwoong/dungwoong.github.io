@@ -18,7 +18,9 @@ This was a challenge on Kaggle that I did. I mostly followed the tutorials there
 
 [github repository here](https://github.com/dungwoong/houseprices-linear-regression)
 
-# Project2
+# League of Legends Project
+Used the Riot Games API to scrape data for League of Legends(Video Game) matches. Hopes to find insights.
+
 Yeah that doesn't exist yet
 
 

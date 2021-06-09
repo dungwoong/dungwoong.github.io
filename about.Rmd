@@ -9,7 +9,7 @@ He hopes to get into the Data Science program but perhaps his grades are too low
 
 His most notable achievement in life is probably ~~getting an 80 in ENV200~~ his art.
 
-You can find that [here](https://www.deviantart.com/latoarts)
+He occasionally programs and hopes to have a job one day.
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
