@@ -12,16 +12,26 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+# Edworthy web scraping project
+A bot that looks at google search results and tells me when parks are empty, so that I can go on walks.<br>
+Uses BeautifulSoup and discord.py in python.
+
+![](img/bot2.JPG){width=60%} ![](img/bot1.JPG){width=30%}
+
+*Google results(left) gets translated to a Bot notification(right)*
+
+[github repository](https://github.com/dungwoong/edworthy)
+
 # House prices linear regression project
 Predicting house prices in Ames, Iowa.<br>
-This was a challenge on Kaggle that I did. I mostly followed the tutorials there.
+This was a challenge on Kaggle that I did. I mostly followed the tutorials there to get the hang of linear regression in python.
 
-[github repository here](https://github.com/dungwoong/houseprices-linear-regression)
+[github repository](https://github.com/dungwoong/houseprices-linear-regression)
 
 # League of Legends Project
 Used the Riot Games API to scrape data for League of Legends(Video Game) matches. Hopes to find insights.
 
-Yeah that doesn't exist yet
+Coming Soon.
 
 
 

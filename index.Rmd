@@ -1,6 +1,6 @@
 ---
 title: "Kevin Wang"
-image: "img/gongis.JPG"
+image: "img/ajr.JPG"
 site: distill::distill_website
 links:
   - label: LinkedIn
@@ -18,13 +18,12 @@ output:
 This site is still under construction.
 
 I'm Kevin Wang.
-I will put a picture of myself here when I get a haircut.<br>
-Here's some art for now. <br>
-I draw and I code.
+I draw and I code.<br>
 
 ## Education
 
-**University of Toronto** | Toronto, ON
+**University of Toronto** | Toronto, ON<br>
+GPA 3.93/4.00
 
 Data Science Specialist | September 2020 - May 2024
 

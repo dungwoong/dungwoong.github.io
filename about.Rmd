@@ -4,12 +4,10 @@ description: |
   Kevin is a cool guy
 ---
 
-Kevin is a student at the Univerisity of Toronto.<br>
-He hopes to get into the Data Science program but perhaps his grades are too low.<br>
+Kevin is a student at the University of Toronto.<br>
+He is in the Data Science Specialist Program.
 
-His most notable achievement in life is probably ~~getting an 80 in ENV200~~.
-
-He occasionally programs and hopes to have a job one day.
+He codes and does digital art.
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
