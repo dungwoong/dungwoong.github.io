@@ -1,6 +1,6 @@
 ---
 title: "Kevin Wang"
-image: "img/ajr.JPG"
+image: "img/me.JPG"
 site: distill::distill_website
 links:
   - label: LinkedIn
@@ -18,7 +18,7 @@ output:
 This site is still under construction.
 
 I'm Kevin Wang.
-I draw and I code.<br>
+I draw as a hobby, and study data science at the University of Toronto.<br>
 
 ## Education
 
@@ -28,5 +28,7 @@ GPA 3.93/4.00
 Data Science Specialist | September 2020 - May 2024
 
 ## Experience
+
+**ISSC** | Web Scraping and APIs workshop | July 2021
 
 **STEM Fellowship** | Google Analytics Team | September 2019 - October 2020

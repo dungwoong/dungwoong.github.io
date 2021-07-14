@@ -1,13 +1,25 @@
 ---
 title: "About me"
 description: |
-  Kevin is a cool guy
+  Kevin Wang
 ---
 
-Kevin is a student at the University of Toronto.<br>
-He is in the Data Science Specialist Program.
+Hi!
 
-He codes and does digital art.
+I am a student at the University of Toronto.<br>
+I'm in the Data Science Specialist Program, and I like studying statistics.
+
+Recently, I gave a workshop on web scraping and APIs.
+You can look at my past projects in the projects page.<br>
+Some notable courses I've taken are CSC148(Intro to programming) and STA130(Intro to stats). 
+I also learned to use many python libraries such as pandas and matplotlib in my spare time, and am used to writing scripts that help me collect and process data.
+
+In my spare time, I work on digital art. I like drawing dark settings, inspired
+by movies that I've watched in the past.
+
+Here's an example:
+
+![](img/gfg.JPG){width=80%}
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
