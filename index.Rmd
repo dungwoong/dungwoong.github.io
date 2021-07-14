@@ -1,6 +1,6 @@
 ---
 title: "Kevin Wang"
-image: "img/kevin.JPG"
+image: "img/kevin.jpg"
 site: distill::distill_website
 links:
   - label: LinkedIn
