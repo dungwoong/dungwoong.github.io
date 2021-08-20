@@ -19,7 +19,7 @@ by movies that I've watched in the past.
 
 Here's an example:
 
-![](img/gfg.JPG){width=80%}
+![](img/gfg.jpeg){width=80%}
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
