@@ -14,12 +14,11 @@ You can look at my past projects in the projects page.<br>
 Some notable courses I've taken are CSC148(Intro to programming) and STA130(Intro to stats). 
 I also learned to use many python libraries such as pandas and matplotlib in my spare time, and am used to writing scripts that help me collect and process data.
 
-In my spare time, I work on digital art. I like drawing dark settings, inspired
-by movies that I've watched in the past.
+I believe that having fun is the first step to success. All of my projects are inspired by some of my personal problems, and I enjoy improving parts of my life using code.
 
-Here's an example:
+In my spare time, I work on digital art, I go to the gym, and I watch anime.
 
-![](img/gfg.jpeg){width=80%}
+(this is supposed to show that I am a human outside of whatever I do in University, I'm trying to show that I actually mean what I say and I'm not just writing some stuff down to satisfy a recruiter or something like that)
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)

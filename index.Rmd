@@ -15,10 +15,26 @@ output:
  
 ## Bio
 
-This site is still under construction.
+I'm Kevin Wang!
 
-I'm Kevin Wang.
-I draw as a hobby, and study data science at the University of Toronto.<br>
+I study data science at the University of Toronto. I draw and code in my spare time.<br>
+
+My goal is to have fun, and create real-world impact through programming. This is why every project I make solves some sort of problem in my life.
+
+## Experience
+
+**ISSC** | Web Scraping and APIs workshop | July 2021
+
+**STEM Fellowship** | Google Analytics Team | September 2019 - October 2020
+
+## Projects
+
+**Edworthy Web Scraping Project** 
+
+Uses discord and web scraping to notify me when my favorite locations are empty.
+Uses BeautifulSoup and discord.py in python.
+
+![](img/bot2.JPG){width=60%} ![](img/bot1.JPG){width=30%}
 
 ## Education
 
@@ -26,9 +42,3 @@ I draw as a hobby, and study data science at the University of Toronto.<br>
 GPA 3.93/4.00
 
 Data Science Specialist | September 2020 - May 2024
-
-## Experience
-
-**ISSC** | Web Scraping and APIs workshop | July 2021
-
-**STEM Fellowship** | Google Analytics Team | September 2019 - October 2020
