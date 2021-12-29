@@ -19,7 +19,7 @@ I'm Kevin Wang!
 
 I study data science at the University of Toronto. I draw and code in my spare time.<br>
 
-My goal is to have fun, and create real-world impact through programming. This is why every project I make solves some sort of problem in my life.
+My goal is to have fun, and create real-world impact through programming.
 
 ## Experience
 
@@ -35,6 +35,10 @@ Uses discord and web scraping to notify me when my favorite locations are empty.
 Uses BeautifulSoup and discord.py in python.
 
 ![](img/bot2.JPG){width=60%} ![](img/bot1.JPG){width=30%}
+
+**Course Review System**
+
+Java command line application that allows users to login, view, rate, and comment on courses. Follows SOLID principles and clean architecture, and utilises many design patterns. This was my final project for CSC207 at U of T.
 
 ## Education
 
