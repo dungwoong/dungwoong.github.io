@@ -13,7 +13,13 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 # League of Legends Web Scraping Project(V2)
-Collected metrics for matches of the popular game, League of Legends. Web scraped the popular site, LeagueOfGraphs.com, and collected data from the official Riot Games API to record over 200 variables for each game for the purpose of data analysis.
+Created a classification model to predict match outcomes of the popular game, League of Legends, with ~80% accuracy.
+
+Web scraped the popular site, LeagueOfGraphs.com, and collected data from the official Riot Games API.
+
+Used python libraries such as numpy, pandas, matplotlib and sklearn to process and visualize the data, and to fit a model.
+
+Currently fine-tuning the model and continuing to process the data
 
 ![](img/collection2.jpg)
 
