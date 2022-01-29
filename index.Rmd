@@ -29,10 +29,10 @@ My goal is to have fun, and create real-world impact through programming.
 
 ## Projects
 
-**League of Legends Prediction Project(In Progress)**
-Created a classification model that predicts match outcomes of the popular video game, League of Legends, with ~80% accuracy.
+**League of Legends Prediction Project**
+Created a classification model that predicts match outcomes of the popular video game, League of Legends, with ~82% accuracy.
 
-Data is hand-collected and carefully processed.
+Data is hand-collected and carefully processed. Writeup can be found [here](https://github.com/dungwoong/league-scrapev2/blob/main/writeup/Riot%20Games%20Writeup.pdf)
 
 **Edworthy Web Scraping Project** 
 
