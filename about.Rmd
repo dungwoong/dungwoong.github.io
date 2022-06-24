@@ -9,13 +9,11 @@ Hi!
 I am a student at the University of Toronto.<br>
 I'm in the Data Science Specialist Program.
 
-Recently, I gave a workshop on web scraping and APIs. You can look at my past projects in the projects page.<br>
+My strengths are mostly conceptual/abstract topics such as programming, math, and statistics. I am great at learning and applying ideas. For example, at my internship, I'm using my data science skills to lead an analytics project using python.
 
-My massive GPA at U of T shows that I am both hardworking and understand the content of my courses. Some notable courses I've taken are CSC207(Intro to Software Design), CSC236(Intro to Theory of Computation) and STA257(Probability and Statistics I).
+In my spare time, I'm working with Convolutional and Recurrent neural networks, and trying to do small projects to learn new concepts. I hope to work on data science research in the future. More on that soon!
 
-I use many python libraries such as pandas and matplotlib, and am used to writing scripts that help me collect and process data.
-
-My main skills are my knowledge of web infrastructures(as I've done many web-scraping projects), my familiarity with many Python libraries, my general knowledge of programming concepts and my ability to present information to a general audience.
+My other skills include web scraping, SQL, data analysis/models in python.
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)

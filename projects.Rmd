@@ -12,6 +12,11 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+# Tensorflow Blog Series
+Small tensorflow articles/tutorials on medium.com
+
+Found [here](https://medium.com/@dungwoong)
+
 # Gradient Descent Visualization
 Just a cool visualization of gradient descent.
 
