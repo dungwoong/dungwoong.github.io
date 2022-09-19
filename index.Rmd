@@ -19,11 +19,11 @@ I'm Kevin Wang!
 
 I study data science at the University of Toronto. I draw and mess around with neural networks.<br>
 
-I don't have any career goals. My only goal is to understand data science research papers, like [this one](https://github.com/isl-org/PhotorealismEnhancement/blob/main/paper/paper.pdf), to be able to participate in challenges like the ImageNet challenge and to be able to come up with my own research topics and have fun. If becoming a data scientist will help me in this journey, I will work my hardest to become one.
+I don't have any career goals. My only goal is to understand data science research papers, like [this one](https://github.com/isl-org/PhotorealismEnhancement/blob/main/paper/paper.pdf), to be able to participate in challenges like the ImageNet challenge and to be able to come up with my own research topics and investigate them. If becoming a data scientist will help me in this journey, I will work my hardest to become one.
 
 ## Experience
 
-**---** | Jr Data Scientist/Analyst | May 2022-Aug 2022
+**Neobi Technologies** | Jr Data Scientist/Analyst | May 2022-Aug 2022
 
 **U of T ISSC** | Web Scraping and APIs workshop | July 2021
 
