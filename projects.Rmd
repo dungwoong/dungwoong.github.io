@@ -17,11 +17,6 @@ Small tensorflow articles/tutorials on medium.com
 
 Found [here](https://medium.com/@dungwoong)
 
-# Gradient Descent Visualization
-Just a cool visualization of gradient descent.
-
-[found here](gradientdescent.html)
-
 # League of Legends Web Scraping Project(V2)
 Created a classification model to predict match outcomes of the popular game, League of Legends, with ~82% accuracy.
 
