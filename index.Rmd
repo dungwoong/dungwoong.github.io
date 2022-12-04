@@ -17,9 +17,11 @@ output:
 
 I'm Kevin Wang!
 
-I study data science at the University of Toronto. I draw and mess around with neural networks.<br>
+I study data science at the University of Toronto. My goal is to do cool stuff with neural networks.<br>
 
-I don't have any career goals. My only goal is to understand data science research papers, like [this one](https://github.com/isl-org/PhotorealismEnhancement/blob/main/paper/paper.pdf), to be able to participate in challenges like the ImageNet challenge and to be able to come up with my own research topics and investigate them. If becoming a data scientist will help me in this journey, I will work my hardest to become one.
+I don't have any career goals. My only goal is to be able to understand and build on data science research papers, like [this one](https://github.com/isl-org/PhotorealismEnhancement/blob/main/paper/paper.pdf), to be able to participate in challenges like the ImageNet challenge and to be able to come up with my own research topics and investigate them, because I think AI is cool. 
+
+If becoming a data scientist, and working in research will help me in this journey, I will work my hardest to become one.
 
 ## Experience
 
@@ -31,21 +33,22 @@ I don't have any career goals. My only goal is to understand data science resear
 
 ## Projects
 
-**League of Legends Prediction Project**
-Created a classification model that predicts match outcomes of the popular video game, League of Legends, with ~82% accuracy.
+**Game AI using supervised imitation learning**
+
+Trained a convolutional neural network to play the popular video game, Temple Run 2.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SW23ZAxpygw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br><br>
+**Predicting video game outcomes with Random Forests**
+
+Created a classification model that predicts match outcomes of the popular video game, League of Legends, with ~82% testing accuracy.
 
 Data is hand-collected and carefully processed. Writeup can be found [here](https://github.com/dungwoong/league-scrapev2/blob/main/writeup/Riot%20Games%20Writeup.pdf)
-
-**Edworthy Web Scraping Project** 
-
-Uses discord and web scraping to notify me when my favorite locations are empty.
-Uses BeautifulSoup and discord.py in python.
-
-![](img/bot2.JPG){width=60%} ![](img/bot1.JPG){width=30%}
 
 ## Education
 
 **University of Toronto** | Toronto, ON<br>
-GPA 3.93/4.00(would be 4.0 if I didn't fail my essay on Michael Buble's "Feeling Good")
+GPA 3.93/4.00
 
 Data Science Specialist | September 2020 - May 2024
