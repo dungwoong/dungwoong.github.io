@@ -17,11 +17,17 @@ output:
 
 I'm Kevin Wang!
 
-I study data science at the University of Toronto. My goal is to do cool stuff with neural networks.<br>
+I study data science at the University of Toronto. My goal is to do cool stuff with neural networks. I am particularly interested in computer vision and image generation.<br>
 
-I don't have any career goals. My only goal is to be able to understand and build on data science research papers, like [this one](https://github.com/isl-org/PhotorealismEnhancement/blob/main/paper/paper.pdf), to be able to participate in challenges like the ImageNet challenge and to be able to come up with my own research topics and investigate them, because I think AI is cool. 
+I work mostly with convolutional neural networks using Pytorch.
 
-If becoming a data scientist, and working in research will help me in this journey, I will work my hardest to become one.
+I am trained in "classical" data science, and have knowledge/experience analyzing, visualizing and fitting simple, interpretable models on data using libraries such as pandas, matplotlib and plotly.
+
+I have experience writing reports in R, and understand good industry practices for interpretable and ethical data science investigations.
+
+I am also trained in software development, and have experience with software design, data structures and algorithms, and relational databases.
+
+My goal is to work in deep learning research, and I'm doing my best to make that a reality!
 
 ## Experience
 
@@ -33,9 +39,16 @@ If becoming a data scientist, and working in research will help me in this journ
 
 ## Projects
 
+**Few-Shot Image Generation with FastGAN**
+
+(In progress) Exploring methods of synthesizing new images from little reference data.
+
+![](img/smallg.jpg){width=50%}
+
+
 **Game AI using supervised imitation learning**
 
-Trained a convolutional neural network to play the popular video game, Temple Run 2.
+Trained a convolutional neural network to play the popular video game, Temple Run 2. The network imitates human behaviors to achieve high scores.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SW23ZAxpygw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

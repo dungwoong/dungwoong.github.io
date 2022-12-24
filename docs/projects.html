@@ -2094,8 +2094,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <nav class="l-text toc figcaption" id="TOC">
 <h3>Contents</h3>
 <ul>
+<li><a href="#few-shot-image-generation-with-fastgan">Few-Shot Image Generation with FastGAN</a></li>
 <li><a href="#game-ai-using-supervised-imitation-learning">Game AI using supervised imitation learning</a></li>
-<li><a href="#tensorflow-blog-series">Tensorflow Blog Series</a></li>
 <li><a href="#predicting-video-game-outcomes-with-random-forests">Predicting video game outcomes with Random Forests</a></li>
 <li><a href="#course-review-system-project">Course Review System Project</a></li>
 <li><a href="#edworthy-web-scraping-project">Edworthy web scraping project</a></li>
@@ -2103,15 +2103,18 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </ul>
 </nav>
 </div>
+<h1 id="few-shot-image-generation-with-fastgan">Few-Shot Image Generation with FastGAN</h1>
+<p><img src="img/fastg.jpg" /></p>
+<p>FastGAN is a (relatively)lightweight image-generation model that boasts good image synthesis results with little input data.</p>
+<p>I trained it on the researcher’s Anime faces dataset, and then used discord.py to create a Discord Bot that can present the results of each GAN.</p>
+<p>I am attempting to further existing research in the field. The project is still in progress.</p>
 <h1 id="game-ai-using-supervised-imitation-learning">Game AI using supervised imitation learning</h1>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SW23ZAxpygw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 <p>Trained a convolutional neural network to play the popular infinite runner “Temple Run 2,” by Imangi Studios.</p>
 <p>Explored efficient network architectures, different methods of data collection and methods of combatting overfitting in order to produce a generalizable model that can generate impressive in-game scores.</p>
+<p>Data is hand-collected, using a program created in python.</p>
 <p>A short writeup of methods and results can be found <a href="https://github.com/dungwoong/Temple-Run-AI/blob/main/TempleRun%20Writeup.pdf">here</a></p>
-<h1 id="tensorflow-blog-series">Tensorflow Blog Series</h1>
-<p>Small Tensorflow articles/tutorials on medium.com</p>
-<p>Found <a href="https://medium.com/@dungwoong">here</a></p>
 <h1 id="predicting-video-game-outcomes-with-random-forests">Predicting video game outcomes with Random Forests</h1>
 <p>Created a classification model to predict match outcomes of the popular game, League of Legends, with ~82% accuracy.</p>
 <p>Web scraped the popular aggregator site, LeagueOfGraphs.com, and collected data from the official Riot Games API.</p>

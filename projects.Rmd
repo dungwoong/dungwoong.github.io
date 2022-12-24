@@ -12,6 +12,16 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+# Few-Shot Image Generation with FastGAN
+
+![](img/fastg.jpg)
+
+FastGAN is a (relatively)lightweight image-generation model that boasts good image synthesis results with little input data.
+
+I trained it on the researcher's Anime faces dataset, and then used discord.py to create a Discord Bot that can present the results of each GAN.
+
+I am attempting to further existing research in the field. The project is still in progress.
+
 # Game AI using supervised imitation learning
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SW23ZAxpygw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -20,12 +30,9 @@ Trained a convolutional neural network to play the popular infinite runner "Temp
 
 Explored efficient network architectures, different methods of data collection and methods of combatting overfitting in order to produce a generalizable model that can generate impressive in-game scores.
 
+Data is hand-collected, using a program created in python.
+
 A short writeup of methods and results can be found [here](https://github.com/dungwoong/Temple-Run-AI/blob/main/TempleRun%20Writeup.pdf)
-
-# Tensorflow Blog Series
-Small Tensorflow articles/tutorials on medium.com
-
-Found [here](https://medium.com/@dungwoong)
 
 # Predicting video game outcomes with Random Forests
 Created a classification model to predict match outcomes of the popular game, League of Legends, with ~82% accuracy.
