@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![](img/sammy.jpg)
 
-*Generated Faces. All credit for the training data goes to [SamDoesArts](https://www.instagram.com/samdoesarts/)*
+*Curated collection of generated Faces. All credit for the training data goes to [SamDoesArts](https://www.instagram.com/samdoesarts/)*
 
 The goal of this project is to create high quality, structurally sound generations of digital portraits, using few-shot learning(training from scratch with <200 images). 
 

@@ -43,7 +43,7 @@ My goal is to work in deep learning research, and I'm doing my best to make that
 
 (In progress) Exploring methods of synthesizing new images from little reference data.
 
-![](img/sammy.jpg){width=50%}
+![](img/sammy2.jpg){width=50%}
 
 
 **Game AI using supervised imitation learning**
