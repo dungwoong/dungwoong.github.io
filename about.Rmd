@@ -17,13 +17,13 @@ I am a digital artist, but I am also studying data science, so I am at a weird c
 
 ![](img/porfolio.jpg)
 
-I believe there are many insights that can be gained from artists, in the field of image generation. Artists must approach the visual world with structure, in order to capture the most important elements on a canvas. 
+I believe there are many insights that can be gained from artists, in the field of image generation. Artists must approach the visual world with structure, in order to capture the most important elements on a canvas. In addition, art typically has a hierarchical structure of important features(eg. structures and proportions are more important than textures, and different textures have different importance), which is difficult to achieve with AI.
 
-I've found little research in this area, and my goal is to solidify my(possibly naive) ideas, continue gaining knowledge of deep learning, and hopefully produce some interesting results!
+I've found little research in this area, and my goal is to solidify my(naive) ideas, continue gaining knowledge of deep learning, and hopefully produce some interesting results!
 
 -------------------------------------
 
-Career-wise, I am looking for experience with computer vision, and computer science research. I am only a third-year student(which I've realized is quite inexperienced in the field of deep learning), so I am looking for an opportunity to develop my existing skills and to learn good industry practices in my field.
+Career-wise, I am looking for experience with computer vision, and computer science research. I am also interested in general data science and analysis, and am somewhat interested in software engineering. I am only a third-year student(which I've realized is quite inexperienced in the field of deep learning), so I am looking for an opportunity to develop my existing skills and to learn good industry practices in my field. I hope that my previous experiences and skills demonstrates the value I can help create, and my commitment to the field of data science.
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)

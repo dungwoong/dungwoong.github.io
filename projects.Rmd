@@ -14,13 +14,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Few-Shot Image Generation with FastGAN
 
-![](img/fastg.jpg)
+![](img/sammy.jpg)
 
-FastGAN is a (relatively)lightweight image-generation model that boasts good image synthesis results with little input data.
+*Generated Faces. All credit for the training data goes to [SamDoesArts](https://www.instagram.com/samdoesarts/)*
 
-I trained it on the researcher's Anime faces dataset, and then used discord.py to create a Discord Bot that can present the results of each GAN.
+The goal of this project is to create high quality, structurally sound generations of digital portraits, using few-shot learning(training from scratch with <200 images). 
 
-I am attempting to further existing research in the field. The project is still in progress.
+Humans are especially good at facial recognition, making this a difficult generation task. I have three datasets of portraits drawn by different digital artists, each with increasing complexity, and am testing the effectiveness of different architectures and techniques.
+
+FastGAN is a (relatively)lightweight image-generation model that boasts good image synthesis results with little input data. I am using it as a base model for my investigation.
 
 # Game AI using supervised imitation learning
 
