@@ -9,6 +9,8 @@ links:
     url: "https://github.com/dungwoong"
   - label: Email
     url: "mailto:imkevin.wang@mail.utoronto.com"
+  - label: Medium
+    url: "https://www.medium.com/&#64;dungwoong"
 output:
   postcards::trestles
 ---
