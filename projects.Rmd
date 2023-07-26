@@ -12,18 +12,6 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Few-Shot Image Generation with FastGAN
-
-![](img/sammy.jpg)
-
-*Curated collection of generated Faces. All credit for the training data goes to [SamDoesArts](https://www.instagram.com/samdoesarts/)*
-
-The goal of this project is to create high quality, structurally sound generations of digital portraits, using few-shot learning(training from scratch with <200 images). 
-
-Humans are especially good at facial recognition, making this a difficult generation task. I have three datasets of portraits drawn by different digital artists, each with increasing complexity, and am testing the effectiveness of different architectures and techniques.
-
-FastGAN is a (relatively)lightweight image-generation model that boasts good image synthesis results with little input data. I am using it as a base model for my investigation.
-
 # Game AI using supervised imitation learning
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SW23ZAxpygw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -35,6 +23,14 @@ Explored efficient network architectures, different methods of data collection a
 Data is hand-collected, using a program created in python.
 
 A short writeup of methods and results can be found [here](https://github.com/dungwoong/Temple-Run-AI/blob/main/TempleRun%20Writeup.pdf)
+
+# Car prices data exploration
+
+Buying a car is stressful. However, not all cars are built equally and, from personal experience, many car salesmen will not eagerly disclose these inequalities. 
+
+I investigated the used car market in the GTA area, and created a website and pdf report for my findings.
+
+Website can be found [here](https://dungwoong.github.io/JSC370website/)
 
 # Predicting video game outcomes with Random Forests
 Created a classification model to predict match outcomes of the popular game, League of Legends, with ~82% accuracy.

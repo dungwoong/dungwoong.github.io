@@ -17,34 +17,23 @@ output:
 
 I'm Kevin Wang!
 
-I study data science at the University of Toronto. My goal is to do cool stuff with neural networks. I am particularly interested in computer vision and image generation.<br>
+I study data science at the University of Toronto.
 
-I work mostly with convolutional neural networks using Pytorch.
+With my knowledge and expertise, my goal is to help businesses and individuals like myself find solutions to seemingly complex problems. This causes my interests to be broad, from statistics to data structures and algorithms to deep learning.
 
-I am trained in "classical" data science, and have knowledge/experience analyzing, visualizing and fitting simple, interpretable models on data using libraries such as pandas, matplotlib and plotly.
+In terms of research, I am quite interested in deep learning and have some experience with CNNs and transformers.
 
-I have experience writing reports in R, and understand good industry practices for interpretable and ethical data science investigations.
+Other interests I have are algorithmic trading/indicators, cybersecurity, and business development topics such as strategy, communication and project management.
 
-I am also trained in software development, and have experience with software design, data structures and algorithms, and relational databases.
+Finally, I'm interested in productivity and personal growth. I want to find general guidelines for growth, that can tie together many techniques and tricks for boosting productivity.
 
-My goal is to work in deep learning research, and I'm doing my best to make that a reality!
+
 
 ## Experience
 
 **Neobi Technologies** | Jr Data Scientist/Analyst | May 2022-Aug 2022
 
-**U of T ISSC** | Web Scraping and APIs workshop | July 2021
-
-**STEM Fellowship** | Google Analytics Team | September 2019 - October 2020
-
 ## Projects
-
-**Few-Shot Image Generation with FastGAN**
-
-(In progress) Exploring methods of synthesizing new images from little reference data.
-
-![](img/sammy2.jpg){width=50%}
-
 
 **Game AI using supervised imitation learning**
 
@@ -62,6 +51,6 @@ Data is hand-collected and carefully processed. Writeup can be found [here](http
 ## Education
 
 **University of Toronto** | Toronto, ON<br>
-GPA 3.93/4.00
+GPA 3.95/4.00
 
 Data Science Specialist | September 2020 - May 2024
