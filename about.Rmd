@@ -19,9 +19,3 @@ I also spend time working on my coding skills, and staying up-to-date with web d
 
 Thanks for reading my bio!
 
-In my spare time, I try to learn more about web development
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
