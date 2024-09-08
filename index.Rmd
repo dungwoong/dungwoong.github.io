@@ -9,8 +9,6 @@ links:
     url: "https://github.com/dungwoong"
   - label: Email
     url: "mailto:imkevin.wang@mail.utoronto.com"
-  - label: Medium
-    url: "https://www.medium.com/&#64;dungwoong"
 output:
   postcards::trestles
 ---
@@ -19,19 +17,19 @@ output:
 
 I'm Kevin Wang!
 
-I study data science at the University of Toronto.
+I'm in the Data Science Specialist program at the University of Toronto.
 
-With my knowledge and expertise, my goal is to help businesses and individuals like myself find solutions to seemingly complex problems. This causes my interests to be broad, from statistics to data structures and algorithms to deep learning.
+My goal is to help businesses and individuals like myself find solutions to seemingly complex problems. This causes my interests to be broad, from statistics to data structures and algorithms to deep learning. 
 
-In terms of research, I am quite interested in deep learning and have some experience with CNNs and transformers.
+I enjoy the combination of project management/business skills and technical skills that data science problems often require.
 
-Other interests I have are algorithmic trading/indicators, cybersecurity, and business development topics such as strategy, communication and project management.
+In terms of research, I am quite interested in deep learning and have experience with CNNs and transformers.
 
-Finally, I'm interested in productivity and personal growth. I want to find general guidelines for growth, that can tie together many techniques and tricks for boosting productivity.
-
-
+My other interests are web development, as it allows me to showcase my findings, and business development topics such as strategy, communication and project management.
 
 ## Experience
+
+**Pason Systems** | Data Science Intern | May 2023-Aug 2024
 
 **Neobi Technologies** | Jr Data Scientist/Analyst | May 2022-Aug 2022
 

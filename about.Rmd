@@ -7,9 +7,19 @@ description: |
 Hi!
 
 I am a student at the University of Toronto.<br>
-I'm in the Data Science Specialist Program.
+I'm in the Data Science Specialist Program. Here's some background about me!
 
-Not much to know about me other than the information on the home page for now. I have many things in the works.
+I am in the Data Science Specialist program at U of T. Through this, I've gotten experience with math, statistics and their applications in Machine Learning algorithms. I've also taken many Computer Science courses such as databases, software design and algorithms and data structures. Since I am interested in deep learning, I took a graduate-level intro to deep learning course and I'm currently taking a natural language processing course.
+
+At my previous internship at Pason, I created a rules-based algorithm to detect drilling dysfunctions, and managed to implement the algorithm in production and help file for a patent. I also worked on a variety of codebases, from a web application displaying KPIs, to a KPI calculation engine implemented in MATLAB/Java. Finally, I started a NLP project, investigating the use of transformers in processing drilling records. I think this internship helped me apply my skills, as well as learn more about the business/project management skills that are essential to a successful data science project. It was very enjoyable!
+
+In my spare time, I try to polish my ML knowledge by reading papers and learning more in-depth knowledge about different models. I've read "Attention is All You Need" more times than I'm willing to admit...
+
+I also spend time working on my coding skills, and staying up-to-date with web development and software design skills in school. I feel like bug-free development is an important, but often overlooked, skill for data scientists and machine learning researchers.
+
+Thanks for reading my bio!
+
+In my spare time, I try to learn more about web development
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
